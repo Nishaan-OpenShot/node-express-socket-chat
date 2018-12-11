@@ -1,0 +1,2 @@
+Reference taken from
+https://github.com/ngrt/simpleChatApp
